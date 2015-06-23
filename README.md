@@ -1,0 +1,1 @@
+Sample project for akka-remote bug 17229 (https://github.com/akka/akka/issues/17729)
